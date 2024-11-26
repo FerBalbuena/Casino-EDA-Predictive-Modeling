@@ -94,5 +94,5 @@ Archivos CSV generados estarán listos para análisis adicionales en Power BI u 
 ### Desarrollado como un ejercicio de análisis y modelado predictivo.
 
 
-# Casino EDA and Predictive Modeling
+
 # -Casino-EDA-and-Predictive-Modeling
